@@ -6,7 +6,5 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=vidiptvashist&theme=dark&hide_border=false)<br/>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/vidiptvashist/) 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
